@@ -3,7 +3,7 @@ This is a flask website boilerplate
 
 ## Usage
 
-1. Click `Use this template` button to create a new repo from this one. [More info here](https://help.github.com/en/articles/creating-a-repository-from-a-template). 
+1. Click `Use this template` button on [GitHub](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new repo from this one.
 
 2. Clone the new repository locally.
 
