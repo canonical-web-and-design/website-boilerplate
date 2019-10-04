@@ -21,13 +21,7 @@ cd {new-project-directory}
 
 5. Change `PORT` number in the `.env` file considering [current projects port list](https://canonical-web-and-design.github.io/practices/project-structure/ports.html).
 
-6. Make `entrypoint` file executable.
-
-```bash
-chmod +x entrypoint
-```
-
-7. Run your project:
+6. Run your project:
 
 ```bash
 ./run
