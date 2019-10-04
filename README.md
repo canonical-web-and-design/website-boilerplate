@@ -52,4 +52,4 @@ yo canonical-webteam:run
 
 6. Open `requirements.txt` file and make sure you are using the latest version of [canonicalwebteam.flask-base](https://pypi.org/project/canonicalwebteam.flask-base/).
 
-7. Change `PORT` number in the `.env` file considering the [current projects port list](https://canonical-web-and-design.github.io/practices/project-structure/ports.html).
+7. Change `PORT` number in the `.env` file considering [current projects port list](https://canonical-web-and-design.github.io/practices/project-structure/ports.html).
