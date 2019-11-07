@@ -1,4 +1,7 @@
 # Canonical Webteam Website-Boilerplate
+
+[![CircleCI build status](https://circleci.com/gh/canonical-web-and-design/canonicalwebteam.website-boilerplate.svg?style=shield)](https://circleci.com/gh/canonical-web-and-design/canonicalwebteam.website-boilerplate) [![Code coverage](https://codecov.io/gh/canonical-web-and-design/canonicalwebteam.website-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/canonical-web-and-design/canonicalwebteam.website-boilerplate)
+
 This is a flask website boilerplate
 
 ## Usage

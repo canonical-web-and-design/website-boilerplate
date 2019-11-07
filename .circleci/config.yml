@@ -59,7 +59,7 @@ jobs:
       - run:
           name: Lint sass
           command: yarn lint-scss
-  python-tests:
+  test-python:
     <<: *defaults
     steps:
       - checkout
