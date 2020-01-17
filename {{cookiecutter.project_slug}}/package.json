@@ -1,5 +1,5 @@
 {
-  "author": "Canonical webteam",
+  "author": "Canonical Webteam",
   "license": "LGPL v3",
   "scripts": {
     "clean": "rm -rf node_modules yarn-error.log css static/css *.log *.sqlite _site/ build/ .jekyll-metadata .bundle",

@@ -1,0 +1,10 @@
+{
+  "project_name": "Website",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+  "project_port": "8000",
+  "github_username": "canonical-web-and-design",
+  "github_repository": "https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}",
+  "_copy_without_render": [
+     "run"
+    ]
+}
