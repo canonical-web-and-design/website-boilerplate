@@ -13,7 +13,7 @@
     "test-python": "python3 -m unittest discover tests"
   },
   "dependencies": {
-    "autoprefixer": "9.7.3",
+    "autoprefixer": "9.7.4",
     "node-sass": "4.13.1",
     "postcss-cli": "6.1.3",
     "sass-lint": "1.13.1",
