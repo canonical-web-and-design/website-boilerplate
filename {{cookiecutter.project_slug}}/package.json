@@ -22,7 +22,7 @@
     "stylelint-config-standard": "20.0.0",
     "stylelint-order": "4.1.0",
     "stylelint-prettier": "1.1.2",
-    "stylelint-scss": "3.17.2",
+    "stylelint-scss": "3.18.0",
     "vanilla-framework": "2.13.0",
     "watch-cli": "0.2.3"
   }
